@@ -1,5 +1,3 @@
-Hi there 👋
-
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Daniil%20👋&fontSize=42&fontColor=fff&animation=fadeIn&desc=Fullstack%20Developer&descAlignY=60&descSize=20" width="100%"/>
 </h1>
