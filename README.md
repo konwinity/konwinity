@@ -6,15 +6,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Fullstack+Developer+%F0%9F%9A%80;I+love+clean+code+and+coffee+%E2%98%95;Building+interfaces+and+APIs;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
-</p>
+
 
 🧑‍💻 About me
 
 
 🎯 Fullstack developer, building products from idea to production
-🔭 Currently working on: [project name]
 🌱 Currently learning: [technology you're learning]
 ⚡ I enjoy fast prototypes and clean architecture
 📫 Reach out — see the contacts block below
