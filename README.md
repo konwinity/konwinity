@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Daniil%20👋&fontSize=42&fontColor=fff&animation=fadeIn&desc=Fullstack%20Developer&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Daniil%20👋&fontSize=42&fontColor=fff&animation=fadeIn&desc=&descAlignY=60&descSize=20" width="100%"/>
 </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Fullstack+Developer+%F0%9F%9A%80;I+love+clean+code+and+coffee+%E2%98%95;Building+interfaces+and+APIs;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
