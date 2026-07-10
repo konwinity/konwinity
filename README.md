@@ -11,10 +11,9 @@
 🧑‍💻 About me
 
 
-🎯 Fullstack developer, building products from idea to production
-🌱 Currently learning: [technology you're learning]
-⚡ I enjoy fast prototypes and clean architecture
-📫 Reach out — see the contacts block below
+ Fullstack developer, building products from idea to production
+ I enjoy fast prototypes and clean architecture
+ Reach out — see the contacts block below
 
 
 
@@ -24,17 +23,14 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,html,css,tailwind,git,docker,postgres,mongodb,figma&theme=dark" />
 </p>
 
-📫 Contact
+ Contact
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:starzhytskyidaniil@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/@konwinity">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://your-portfolio-site.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
